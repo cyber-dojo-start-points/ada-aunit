@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 10,
+  "match_counts": {
+    "^hiker\\.adb:5:[0-9]+: error: ": 1,
+    "^Total Tests Run: ": 0
+  },
+  "truncated": false
+}

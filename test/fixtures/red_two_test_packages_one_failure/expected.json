@@ -1,0 +1,11 @@
+{
+  "match_counts": {
+    "^FAIL Answer size : the answer has one digit$": 1,
+    "^OK Hiker : life, the universe, and everything$": 1,
+    "^Total Tests Run: ": 1,
+    "^Total Tests Run: +2$": 1,
+    "^Successful Tests: +1$": 1,
+    "^Failed Assertions: +1$": 1
+  },
+  "truncated": false
+}

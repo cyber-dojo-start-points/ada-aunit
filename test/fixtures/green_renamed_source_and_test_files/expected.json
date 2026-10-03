@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 14,
+  "match_counts": {
+    "^OK FizzBuzz : life, the universe, and everything$": 1,
+    "^Total Tests Run: +1$": 1,
+    "^Successful Tests: +1$": 1
+  },
+  "truncated": false
+}

@@ -1,0 +1,30 @@
+{
+  "display_name": "Ada, GNAT 14.2, AUnit 25.0",
+  "language": [
+    "Ada",
+    "GNAT 14.2"
+  ],
+  "test_framework": [
+    "AUnit",
+    "25.0"
+  ],
+  "image_name": "ghcr.io/cyber-dojo-languages/ada_aunit:b33dbd3",
+  "visible_filenames": [
+    "hiker.ads",
+    "hiker.adb",
+    "hiker_tests.ads",
+    "hiker_tests.adb",
+    "aunit_assertions_tests.ads",
+    "aunit_assertions_tests.adb",
+    "test_runner.adb",
+    "tests.gpr",
+    "cyber-dojo.sh"
+  ],
+  "rag_lambda": "red_amber_green.rb",
+  "filename_extension": [
+    ".adb",
+    ".ads"
+  ],
+  "max_seconds": 10,
+  "tab_size": 3
+}

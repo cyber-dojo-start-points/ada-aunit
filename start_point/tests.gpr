@@ -1,0 +1,8 @@
+with "aunit";
+
+project Tests is
+   for Source_Dirs use ("./**");
+   for Object_Dir use "/tmp/obj";
+   for Exec_Dir use "/tmp/obj";
+   for Main use ("test_runner.adb");
+end Tests;

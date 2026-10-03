@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 16,
+  "match_counts": {
+    "^debug: Answer was called$": 2,
+    "^debug: Answer is about to return 42$": 2,
+    "^Successful Tests: +1$": 1,
+    "^Failed Assertions: +0$": 1
+  },
+  "truncated": false
+}

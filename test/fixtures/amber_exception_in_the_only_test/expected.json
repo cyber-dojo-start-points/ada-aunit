@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 16,
+  "match_counts": {
+    "^ERROR Hiker : life, the universe, and everything$": 1,
+    "^ +CONSTRAINT_ERROR$": 1,
+    "^ +Exception Message: the answer is not ready yet$": 1,
+    "^Failed Assertions: +0$": 1,
+    "^Unexpected Errors: +1$": 1
+  },
+  "truncated": false
+}

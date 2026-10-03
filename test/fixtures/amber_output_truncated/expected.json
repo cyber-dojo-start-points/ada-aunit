@@ -1,0 +1,7 @@
+{
+  "match_counts": {
+    "^debug: i is 0, and the answer is still on its way$": 1,
+    "^Total Tests Run: ": 0
+  },
+  "truncated": true
+}

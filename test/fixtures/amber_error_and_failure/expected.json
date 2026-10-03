@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^FAIL Hiker : six times nine$": 1,
+    "^ERROR Hiker : life, the universe, and everything$": 1,
+    "^Failed Assertions: +1$": 1,
+    "^Unexpected Errors: +1$": 1
+  },
+  "truncated": false
+}

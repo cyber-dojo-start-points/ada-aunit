@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 16,
+  "match_counts": {
+    "^OK Answer size : the answer has two digits$": 1,
+    "^Total Tests Run: +2$": 1,
+    "^Successful Tests: +2$": 1
+  },
+  "truncated": false
+}
