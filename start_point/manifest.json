@@ -1,14 +1,14 @@
 {
-  "display_name": "Ada, GNAT 14.2, AUnit 25.0",
+  "display_name": "Ada, GNAT 14.2.0, AUnit 25.0.0",
   "language": [
     "Ada",
-    "GNAT 14.2"
+    "GNAT 14.2.0"
   ],
   "test_framework": [
     "AUnit",
-    "25.0"
+    "25.0.0"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/ada_aunit:b33dbd3",
+  "image_name": "ghcr.io/cyber-dojo-languages/ada_aunit:8ce7e74@sha256:c20ce16ac6efa7708de529cc7d2d62f5c7efb0f4586ae7d8698d74c2e900ddae",
   "visible_filenames": [
     "hiker.ads",
     "hiker.adb",
