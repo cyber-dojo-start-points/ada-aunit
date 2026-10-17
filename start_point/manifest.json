@@ -25,6 +25,5 @@
     ".adb",
     ".ads"
   ],
-  "max_seconds": 10,
   "tab_size": 3
 }
